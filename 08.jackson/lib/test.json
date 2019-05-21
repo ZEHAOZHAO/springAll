@@ -1,0 +1,5 @@
+{"string":"string",
+  "marks":[1,2,3],
+  "Boolean":false,
+  "user":{"id":1,"name":"zhangsan","password":"1234"}
+}

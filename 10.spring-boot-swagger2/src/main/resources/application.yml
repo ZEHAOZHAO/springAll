@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: swagger
+
+server:
+  port: 8081

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01.start-spring-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02.spring-boot-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03.spring-boot-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04.spring-boot-jdbcTemplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05.spring-boot-multiDataSource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06.spring-boot-aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07.spring-boot-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08.jackson" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09.spring-boot-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10.spring-boot-swagger2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11.spring-boot-devtools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12.spring-boot-mail" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/13.spring-boot-logger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/14.spring-boot-filter" charset="UTF-8" />
+  </component>
+</project>
